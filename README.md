@@ -5,15 +5,13 @@ Two datasets (all mentions of Bitcoin on Reddit &amp; Bitcoin historical price d
 
 [linearRegression_bitcoinReddit.pde] Main source code for the linear regression map tool
 
-[parsedTable.csv] Main source code for the sketch
+[parsedTable.csv] An organized table by date that contains the number of Reddit mentions of the keyword 'bitcoin' scraped from the site
 
-[bitcoinPrice.csv] A collection of common words and symbols that will be ignored when the program parses the input file
+[bitcoinPrice.csv] Bitcoin historical pricing data
 
-[title.png] The banner graphic at the top of the sketch
+[Node.pde] A class file that describes the pricing nodes that are overlayed across the graph
 
-[Node.pde] The  graphic that appears when the parsing is complete
-
-[GillSansMT.TTF] A screenshot that shows a completed parse.  When the parse is complete, the icon at the bottom of this screenshot will be displayed and information about the parse will be written to the console 
+[GillSansMT.TTF] Font used in the UI
 
 
 ~ Livestream Video Tutorials from a Professional Development focused on creating this tool~
